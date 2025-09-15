@@ -37,7 +37,7 @@ O sistema oferece:
 ## 🗂️ Estrutura de Pastas
 
 ```
-exercicio-final-gestor-de-estoque/
+react-stock/
 ├─ node_modules/              # Dependências (gerado automaticamente)
 ├─ public/                    # Assets públicos
 ├─ src/                       # Código-fonte da aplicação
